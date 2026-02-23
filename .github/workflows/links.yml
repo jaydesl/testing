@@ -19,7 +19,6 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: false
-          args: --accept 403
 
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
