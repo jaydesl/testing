@@ -13,7 +13,7 @@ work the way they do.
 
 DinoSoft is the software component of the DinoDiet research project, a
 fictional study that aims to analyse the dietary habits
-of dinosaurs during the late Cretaceous period.
+of dinosaurs during the late Cretaceous [period](https://lychee.cli.rs/installation/).
 
 The project follows a four-stage pipeline:
 
