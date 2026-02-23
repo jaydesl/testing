@@ -4,7 +4,7 @@ Principal Investigator: Dr. Geller*
 
 Project Description:
 
-This project* aims to analyse the dietairy habits of dinosaurs during 
+This project* aims to analyse the dietary habits of dinosaurs during 
 the late Cretaceous period. We will be focusing on the differences
 between herbivorous and carnivorous dinosaurs.
 
