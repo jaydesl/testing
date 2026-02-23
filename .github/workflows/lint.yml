@@ -1,0 +1,17 @@
+name: Links
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+  push:
+    branches:
+      - master 
+      - main
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    permissions:
+    steps:
+      - uses: actions/checkout@v5
+      - uses: DavidAnson/markdownlint-cli2-action@v22
